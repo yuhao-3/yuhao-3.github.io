@@ -7,9 +7,9 @@ layout: homepage
 I am a Ph.D. student from Faculty of Engieering and IT at University of Melbourne.
 
 ## Educations
-2023.08 - present, the University of Melbourne (Unimelb), Ph.D. in Engineering and IT, advised by Dr. Ling Luo and Prof. Uwe Aickelin.
-2022.07 - 2023.07, the University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by A/Prof. John Ormond.
-2019.03 - 2022.03, the University of Melbourne (Unimelb), B.Sc. in Data Science.
+- 2023.08 - present, the University of Melbourne (Unimelb), Ph.D. in Engineering and IT, advised by Dr. Ling Luo and Prof. Uwe Aickelin.
+- 2022.07 - 2023.07, the University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by A/Prof. John Ormond.
+- 2019.03 - 2022.03, the University of Melbourne (Unimelb), B.Sc. in Data Science.
 
 
 ## Research Interests
