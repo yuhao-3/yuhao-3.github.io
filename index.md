@@ -15,7 +15,7 @@ I am a Ph.D. student from Faculty of Engieering and IT at University of Melbourn
 ## Research Interests
 
 - **Robust Machine Learning:** Noisy Single Label Learning, Noisy Multi-Label Learing.
-- **Multimodal HealthCare Learning**: Electronic Health Records.
+- **Multimodal HealthCare Learning:** with a focus on Electronic Health Records from Time Series and Clinical Notes.
 
 
 ## Internships
