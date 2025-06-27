@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student from Faculty of Engieering and IT at University of Melbourne.
+I am a Ph.D. student from the Faculty of Engineering and IT atthe  University of Melbourne.
 
 ## Educations
 - 2023.08 - present, the University of Melbourne (Unimelb), Ph.D. in Engineering and IT, advised by Dr. Ling Luo and Prof. Uwe Aickelin.
@@ -14,8 +14,8 @@ I am a Ph.D. student from Faculty of Engieering and IT at University of Melbourn
 
 ## Research Interests
 
-- **Robust Machine Learning:** Noisy Single Label Learning, Noisy Multi-Label Learing.
-- **Multimodal HealthCare Learning:** with a focus on Electronic Health Records from Time Series and Clinical Notes.
+- **Robust Machine Learning:** Noisy Single Label Learning, Noisy Multi-Label Learning.
+- **Multimodal HealthCare Learning:** With a focus on Electronic Health Records from Time Series and Clinical Notes.
 
 
 ## Internships
