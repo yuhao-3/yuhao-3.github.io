@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student from the Faculty of Engineering and IT atthe  University of Melbourne.
+I am a Ph.D. student from the Faculty of Engineering and IT at the University of Melbourne.
 
 ## Educations
 - 2023.08 - present, the University of Melbourne (Unimelb), Ph.D. in Engineering and IT, advised by Dr. Ling Luo and Prof. Uwe Aickelin.
