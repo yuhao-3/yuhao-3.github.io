@@ -4,7 +4,7 @@ main:
     authors: Yuhao Li (University of Melbourne)*; Ling Luo (University of Melbourne); Uwe Aickelin (The University of Melbourne)
     conference_short: PAKDD
     conference: The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining 
-    pdf: https://arxiv.org/pdf/2505.07320v1
+    pdf: https://link.springer.com/chapter/10.1007/978-981-96-8170-9_37
     code: https://github.com/yuhao-3/ACTLL
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
