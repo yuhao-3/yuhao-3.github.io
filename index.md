@@ -22,6 +22,11 @@ I am a Ph.D. student from Faculty of Engieering and IT at University of Melbourn
 2023.02 - 2023.06, Machine Learning Engineer Intern @China Sinosoft Technology
 
 
+## Honours and Awards
+- 2023.06, Melbourne Research Scholarship of Unimelb. 
+- 2021.02, Vacation Research Scholarship of Unimelb.
+
+
 
 ## News
 
