@@ -19,7 +19,7 @@ I am a Ph.D. student from Faculty of Engieering and IT at University of Melbourn
 
 
 ## Internships
-2023.02 - 2023.06, Machine Learning Engineer Intern @China Sinosoft Technology
+- 2023.02 - 2023.06, Machine Learning Engineer Intern @China Sinosoft Technology
 
 
 ## Honours and Awards
