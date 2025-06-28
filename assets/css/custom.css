@@ -5,16 +5,15 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 40px 20px;
-    padding-left: 80px;
-    justify-content: flex-start;  /* 👈 取消居中 */
+    align-items: flex-start;
   }
   
-  /* Left column: avatar + name + links */
   header {
-    flex: 0 0 220px;
+    flex: 0 0 250px;
     padding-right: 30px;
-    border-right: 1px solid #ddd;
     text-align: left;
+    position: relative;
+    left: -40px;  /* 👈👈👈头像往左挪，手动偏移 */
   }
   
   header .avatar img {
