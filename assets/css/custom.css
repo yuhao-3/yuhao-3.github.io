@@ -1,45 +1,78 @@
-/* 更大号正文文字 */
+/* 全局基础字体：白底黑字，经典书感 */
 body {
-    font-size: 30px;
-    line-height: 1.9;
+    background-color: #fdfdfd;
+    color: #222222;
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 20px;
+    line-height: 1.8;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
-/* 标题明显放大 */
+/* 标题层次清晰，略带文气 */
 h1 {
     font-size: 2.2em;
+    font-weight: bold;
+    color: #111111;
+    border-bottom: 1px solid #e2e2e2;
+    padding-bottom: 0.2em;
 }
 h2 {
-    font-size: 1.8em;
+    font-size: 1.6em;
+    color: #333333;
 }
 h3 {
-    font-size: 1.5em;
-}
-h4 {
     font-size: 1.3em;
+    color: #444444;
 }
 
-/* 左边栏（姓名、职位）更醒目 */
-.side {
-    font-size: 1.25em;
+/* 链接保持文风 */
+a {
+    color: #005599;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* 左侧栏简洁醒目 */
+.sidebar {
+    width: 260px;
 }
 .side .author {
-    font-weight: bold;
     font-size: 1.8em;
+    font-weight: bold;
+    color: #000000;
+    font-family: "Palatino Linotype", serif;
+}
+.side {
+    font-size: 1.1em;
 }
 
-/* 头像大一点 */
+/* 头像放大，去掉边框圆角 */
 .avatar {
-    width: 170px;
-    height: 170px;
+    width: 160px;
+    height: 160px;
+    border-radius: 0%;
+    margin-bottom: 10px;
 }
 
-/* 右边 publication 图片更大 */
+/* 主内容拉宽 */
+.page {
+    max-width: 1100px !important;
+    margin: auto;
+}
+.content {
+    margin-left: 280px;
+}
+
+/* publication 图片放大一点 */
 .publications img {
     max-width: 260px;
-    height: auto;
 }
 
-/* 联系方式、icon 稍微拉大 */
+/* 社交图标略微放大 */
 .side .social-icons a {
-    font-size: 1.4em;
+    font-size: 1.3em;
+    color: #333333;
 }
