@@ -2,10 +2,10 @@
 .wrapper {
     display: flex;
     flex-direction: row;
-    max-width: 1200px;
-    margin: 0 auto;
+    justify-content: center;
+    margin-left: -80px; /* 👈 关键偏移，头像左移 */
+    max-width: 1100px;
     padding: 40px 20px;
-    align-items: flex-start;
   }
   
   header {
