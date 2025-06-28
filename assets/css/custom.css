@@ -16,11 +16,9 @@
     text-align: left;
   }
   
-  header .avatar img {
-    width: 150px !important;
-    border-radius: 50%;
-    margin-bottom: 20px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  header .avatar {
+    display: block;
+    margin-left: -20px;  /* 👈 让头像向左偏移，具体像素你可以自己调 */
   }
   
   /* Make name/title/email aligned to left */
