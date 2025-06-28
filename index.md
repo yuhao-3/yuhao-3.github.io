@@ -28,11 +28,6 @@ I am a Ph.D. student from the Faculty of Engineering and IT at the University of
 
 
 
-## News
-
-- **[Feb. 2025]** My paper about medical label noise learning is accepted to PAKDD 2025.
-
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
