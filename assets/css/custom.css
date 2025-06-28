@@ -18,7 +18,7 @@
   
   header .avatar {
     display: block;
-    margin-left: -20px;  /* 👈 让头像向左偏移，具体像素你可以自己调 */
+    margin-left: -60px;  /* 👈 让头像向左偏移，具体像素你可以自己调 */
   }
   
   /* Make name/title/email aligned to left */
