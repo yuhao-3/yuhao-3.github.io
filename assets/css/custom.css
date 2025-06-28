@@ -2,10 +2,9 @@
 .wrapper {
     display: flex;
     flex-direction: row;
-    justify-content: center;  /* 中心对齐 */
     max-width: 1100px;
-    margin: 0 auto;
-    padding: 40px 40px 40px 60px;
+    margin-left: 80px;  /* 👈 向右偏移整块内容 */
+    padding: 40px 20px;
   }
   
   /* Left column: avatar + name + links */
