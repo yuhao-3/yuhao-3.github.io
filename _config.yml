@@ -2,7 +2,7 @@
 custom_css: assets/css/custom.css
 include:
   - assets/html_includes
-  
+
 title: Yuhao Li
 position: Ph.D. Candidate
 affiliation: University of Melbourne
@@ -23,7 +23,7 @@ linkedin: https://au.linkedin.com/in/yuhao-li-3195841a0
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/me.png
+avatar: ./assets/img/me2.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
