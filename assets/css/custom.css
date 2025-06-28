@@ -1,24 +1,27 @@
 /* ======= Layout: Two-column (Left avatar + Right content) ======= */
 .wrapper {
     display: flex;
-    flex-direction: row;
-    justify-content: flex-start;  /* 👈 不要 center */
+    justify-content: center;
     align-items: flex-start;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 40px 0;
+    padding: 40px 20px;
   }
   
   header {
-    flex: 0 0 200px;
-    padding-left: 0px; /* 👈 左对齐 */
-    padding-right: 40px;
+    flex: 0 0 250px;
+    margin-right: 40px;
     text-align: left;
+    position: relative;
   }
   
-  header .avatar {
+  header .avatar img {
+    width: 140px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     display: block;
-    margin-left: -60px;  /* 👈 让头像向左偏移，具体像素你可以自己调 */
+    margin-left: 0;  /* 保证靠左 */
   }
   
   /* Make name/title/email aligned to left */
