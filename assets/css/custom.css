@@ -1,0 +1,32 @@
+/* 放大正文文字 */
+body {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+/* 放大标题文字 */
+h1, h2, h3, h4 {
+    font-size: 1.3em;
+}
+
+/* 放大左侧简介区文字（name、position）*/
+.side {
+    font-size: 1.1em;
+}
+
+/* 放大头像图片 */
+.avatar {
+    width: 140px;
+    height: 140px;
+}
+
+/* 放大 Publications 图片 */
+.publications img {
+    max-width: 200px;
+}
+
+/* 可选：加粗你的名字 */
+.side .author {
+    font-weight: bold;
+    font-size: 1.5em;
+}
