@@ -1,78 +1,115 @@
-/* ======= Global Layout & Background ======= */
-body {
-    background-color: #fefefe !important;
-    font-size: 1rem !important;  /* ↓ 字体缩小一点 */
-    font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Microsoft YaHei", sans-serif !important;
-    line-height: 1.8;
-    color: #222 !important;
-    max-width: 1000px;
-    margin: 0 auto 0 80px;  /* ← 内容向左偏一点 */
+/* ======= Layout: Two-column (Left avatar + Right content) ======= */
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    max-width: 1100px;
+    margin: auto;
     padding: 40px 20px;
-}
-
-/* ======= Header Avatar + Title ======= */
-.avatar img {
-    width: 140px !important;  /* 放大头像 */
-    border-radius: 120%;
+  }
+  
+  /* Left column: avatar + name + links */
+  header {
+    flex: 0 0 250px;
+    padding-right: 30px;
+    border-right: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  header .avatar img {
+    width: 150px !important;
+    border-radius: 50%;
     margin-bottom: 20px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-}
-
-h1 {
+  }
+  
+  /* Make name/title/email aligned to left */
+  header h1 {
     font-size: 2.3rem !important;
     font-weight: 700;
-    margin-bottom: 8px;
-}
-
-position {
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  header position {
+    display: block;
     font-size: 1.2rem !important;
     font-weight: 500;
-    color: #222 !important;  /* ← 字体颜色更深 */
-}
-
-autocolor {
-    color: #005fa3 !important;
+    color: #333 !important;
+    margin-bottom: 10px;
+  }
+  
+  header autocolor {
+    display: block;
+    color: #007acc !important;
     font-weight: 500;
-}
-
-email {
-    color: #444 !important;  /* ← email颜色加深 */
+    margin-bottom: 5px;
+  }
+  
+  header email {
+    display: block;
     font-size: 0.95rem;
-}
-
-/* ======= Section Headers ======= */
-h2 {
-    font-size: 1.6rem !important;
-    font-weight: 600;
-    margin-top: 2.5rem;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 6px;
-    color: #222;
-}
-
-/* ======= Social Icons ======= */
-.social-icons i {
-    font-size: 1.4rem !important;
+    color: #444;
+    margin-bottom: 15px;
+  }
+  
+  .social-icons {
+    text-align: left;
+    margin-top: 10px;
+  }
+  .social-icons i {
+    font-size: 1.3rem !important;
     color: #007acc !important;
     transition: transform 0.2s;
-}
-.social-icons i:hover {
+  }
+  .social-icons i:hover {
     transform: scale(1.2);
     color: #005fa3 !important;
-}
-
-/* ======= Publications Image & Title ======= */
-.teaser {
+  }
+  
+  /* ======= Right content section ======= */
+  section {
+    flex: 1;
+    padding-left: 40px;
+    max-width: 750px;
+    font-size: 0.96rem;
+    color: #222;
+    line-height: 1.75;
+  }
+  
+  /* Section titles */
+  section h2 {
+    font-size: 1.4rem !important;
+    font-weight: 700;
+    margin-top: 2.4rem;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 6px;
+    color: #111;
+  }
+  
+  /* Publication card image */
+  .teaser {
     max-width: 100px;
     border-radius: 6px;
     border: 1px solid #ccc;
-}
-
-.title a {
+  }
+  
+  .title a {
     color: #007acc !important;
     font-weight: 600;
     font-size: 1rem;
-}
-.title a:hover {
+  }
+  .title a:hover {
     text-decoration: underline;
-}
+  }
+  
+  /* Body background and font */
+  body {
+    background-color: #fefefe !important;
+    font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Microsoft YaHei", sans-serif !important;
+  }
+  
+  /* Optional: Make footer and note smaller */
+  footer small {
+    color: #888;
+    font-size: 0.8rem;
+  }
