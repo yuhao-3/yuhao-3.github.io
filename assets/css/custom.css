@@ -21,13 +21,13 @@
     
     /* Avatar 样式 */
     header .avatar img {
-        width: 140px;
+        width: 160px;           /* 从 140px 调整为 160px */
         border-radius: 50%;
         margin-bottom: 20px;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         display: block;
         margin-left: 0;
-    }
+      }
   
   /* Make name/title/email aligned to left */
   header h1 {
