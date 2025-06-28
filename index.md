@@ -26,6 +26,10 @@ I am a Ph.D. student from the Faculty of Engineering and IT at the University of
 - 2023.06, Melbourne Research Scholarship of Unimelb. 
 - 2021.02, Vacation Research Scholarship of Unimelb.
 
+## Teaching Experience
+- 2025.03: Marker for COMP20008: Elment of Data Processing
+- 2025.07: Tutor for School of Mathematic and Statistic
+
 
 
 {% include_relative _includes/publications.md %}
