@@ -1,6 +1,8 @@
 # Basic Information 
 custom_css: assets/css/custom.css
-
+include:
+  - assets/html_includes
+  
 title: Yuhao Li
 position: Ph.D. Candidate
 affiliation: University of Melbourne
