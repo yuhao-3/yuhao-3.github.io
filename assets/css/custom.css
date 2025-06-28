@@ -22,7 +22,7 @@
     /* Avatar 样式 */
     header .avatar img {
         width: 160px;           /* 从 140px 调整为 160px */
-        border-radius: 50%;
+        border-radius: 80%;
         margin-bottom: 20px;
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         display: block;
