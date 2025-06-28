@@ -2,17 +2,15 @@
 .wrapper {
     display: flex;
     flex-direction: row;
-    max-width: 1100px;
-    margin-left: auto;
+    max-width: 1150px;
+    margin-left: 80px;  /* 👈 明确左边留点空 */
     margin-right: auto;
     padding: 40px 20px;
-    position: relative;
-    left: 40px; /* 关键：整体往右移 */
   }
   
   /* Left column: avatar + name + links */
   header {
-    flex: 0 0 250px;
+    flex: 0 0 220px;
     padding-right: 30px;
     border-right: 1px solid #ddd;
     text-align: left;
