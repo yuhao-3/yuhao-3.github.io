@@ -76,11 +76,11 @@ header email {
 /* ======= Right content section ======= */
 section {
   flex: 1;
-  padding-left: 72px;
-  max-width: 1020px; /* 原850px */
-  font-size: 1.15rem; /* 原0.96rem */
+  padding-left: 60px;
+  max-width: 1000px;  /* 原850px，提升宽度 */
+  font-size: 0.96rem;
   color: #222;
-  line-height: 2.1;
+  line-height: 1.75;
 }
 
 /* Section titles */
