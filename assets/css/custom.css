@@ -13,7 +13,7 @@
     padding-right: 30px;
     text-align: left;
     position: relative;
-    left: -60px;  /* 👈👈👈头像往左挪，手动偏移 */
+    left: -80px;  /* 👈👈👈头像往左挪，手动偏移 */
   }
   
   header .avatar img {
