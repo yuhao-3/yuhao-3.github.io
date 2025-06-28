@@ -1,73 +1,78 @@
 /* ======= Global Layout & Background ======= */
 body {
     background-color: #fefefe !important;
-    font-size: 1.1rem !important;
+    font-size: 1rem !important;  /* ↓ 字体缩小一点 */
     font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Microsoft YaHei", sans-serif !important;
     line-height: 1.8;
     color: #222 !important;
     max-width: 1000px;
-    margin: auto;
+    margin: 0 auto 0 80px;  /* ← 内容向左偏一点 */
     padding: 40px 20px;
-  }
-  
-  /* ======= Header Avatar + Title ======= */
-  .avatar img {
-    width: 160px !important;
-    border-radius: 100%;
+}
+
+/* ======= Header Avatar + Title ======= */
+.avatar img {
+    width: 140px !important;  /* 放大头像 */
+    border-radius: 120%;
     margin-bottom: 20px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  }
-  
-  h1 {
+}
+
+h1 {
     font-size: 2.3rem !important;
     font-weight: 700;
     margin-bottom: 8px;
-  }
-  
-  position {
+}
+
+position {
     font-size: 1.2rem !important;
     font-weight: 500;
-    color: #333 !important;
-  }
-  
-  autocolor {
-    color: #007acc !important;
+    color: #222 !important;  /* ← 字体颜色更深 */
+}
+
+autocolor {
+    color: #005fa3 !important;
     font-weight: 500;
-  }
-  
-  /* ======= Section Headers ======= */
-  h2 {
+}
+
+email {
+    color: #444 !important;  /* ← email颜色加深 */
+    font-size: 0.95rem;
+}
+
+/* ======= Section Headers ======= */
+h2 {
     font-size: 1.6rem !important;
     font-weight: 600;
     margin-top: 2.5rem;
     border-bottom: 1px solid #ddd;
     padding-bottom: 6px;
     color: #222;
-  }
-  
-  /* ======= Social Icons ======= */
-  .social-icons i {
+}
+
+/* ======= Social Icons ======= */
+.social-icons i {
     font-size: 1.4rem !important;
     color: #007acc !important;
     transition: transform 0.2s;
-  }
-  .social-icons i:hover {
+}
+.social-icons i:hover {
     transform: scale(1.2);
     color: #005fa3 !important;
-  }
-  
-  /* ======= Publications Image & Title ======= */
-  .teaser {
+}
+
+/* ======= Publications Image & Title ======= */
+.teaser {
     max-width: 100px;
     border-radius: 6px;
     border: 1px solid #ccc;
-  }
-  
-  .title a {
+}
+
+.title a {
     color: #007acc !important;
     font-weight: 600;
     font-size: 1rem;
-  }
-  .title a:hover {
+}
+.title a:hover {
     text-decoration: underline;
-  }
+}
