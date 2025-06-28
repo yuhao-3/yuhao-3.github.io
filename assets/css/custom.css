@@ -2,10 +2,10 @@
 .wrapper {
     display: flex;
     flex-direction: row;
-    max-width: 1150px;
-    margin-left: 80px;  /* 👈 明确左边留点空 */
-    margin-right: auto;
+    max-width: 1200px;
+    margin: 0 auto;
     padding: 40px 20px;
+    justify-content: flex-start;  /* 👈 取消居中 */
   }
   
   /* Left column: avatar + name + links */
@@ -70,8 +70,8 @@
   /* ======= Right content section ======= */
   section {
     flex: 1;
-    padding-left: 40px;
-    max-width: 750px;
+    padding-left: 60px;
+    max-width: 850px;
     font-size: 0.96rem;
     color: #222;
     line-height: 1.75;
