@@ -18,9 +18,12 @@ header {
 }
 
 .avatar {
+  position: absolute !important;
+  top: 100px;         /* ⬅️ 距离页面顶部的位置，你可以调 */
+  left: 100px;        /* ⬅️ 头像左对齐位置 */
   width: 168px;
   height: 168px;
-  margin-bottom: 20px;
+  z-index: 10;
 }
 
 .avatar img {
