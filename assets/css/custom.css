@@ -8,65 +8,87 @@
   padding: 48px 24px;
 }
 
-/* Header wrapper */
 header {
-  flex: 0 0 300px; /* 原250 → 300px */
-  margin-right: 48px;
-  text-align: left;
-  position: relative;
+  flex: 0 0 280px;
+  padding: 24px 16px;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center; /* 头像和文字居中 */
+  text-align: center;
 }
 
-/* Avatar 样式 */
 header .avatar img {
-  width: 168px; /* 原140px → 168px */
+  width: 168px;
+  height: 168px;
   border-radius: 50%;
-  margin-bottom: 24px;
+  object-fit: cover;
+  margin-bottom: 20px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  display: block;
-  margin-left: 0;
 }
 
-/* Name/title/email 样式 */
 header h1 {
-  font-size: 2.76rem !important; /* 原2.3rem → 2.76rem */
+  font-size: 2rem;
   font-weight: 700;
-  margin-bottom: 12px;
-  text-align: left;
+  margin: 0 0 10px 0;
 }
 
 header position {
   display: block;
-  font-size: 1.44rem !important; /* 原1.2rem */
+  font-size: 1.1rem;
   font-weight: 500;
-  color: #444 !important;
-  margin-bottom: 12px;
+  color: #555;
+  margin-bottom: 8px;
 }
 
 header autocolor {
   display: block;
-  color: #007acc !important;
+  color: #007acc;
   font-weight: 500;
   margin-bottom: 6px;
 }
 
 header email {
   display: block;
-  font-size: 1.14rem; /* 原0.95rem */
+  font-size: 0.95rem;
   color: #444;
-  margin-bottom: 18px;
+  margin-bottom: 12px;
 }
 
-.social-icons {
-  text-align: left;
+header summary {
+  display: block;
+  font-size: 0.95rem;
+  color: #444;
+  line-height: 1.4;
+  white-space: pre-wrap;
+  margin-bottom: 14px;
+}
+
+/* 联系方式/社交链接图标区 */
+.contact-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.95rem;
   margin-top: 12px;
 }
-.social-icons i {
-  font-size: 1.56rem !important; /* 原1.3rem */
-  color: #007acc !important;
-  transition: transform 0.2s;
+
+.contact-icons a {
+  color: #333;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: color 0.2s ease;
+}
+
+.contact-icons a:hover {
+  color: #007acc;
+}
+
+.contact-icons i {
+  width: 20px;
+  text-align: center;
 }
 .social-icons i:hover {
   transform: scale(1.2);
