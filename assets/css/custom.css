@@ -22,6 +22,7 @@ header {
   width: 168px;
   height: 168px;
   margin-bottom: 20px;
+  margin-left: -60px; /* ✅ 向左推一点点，值可调 */
 }
 .avatar img {
   width: 100%;
