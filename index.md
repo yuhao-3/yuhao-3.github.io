@@ -25,6 +25,7 @@ I am a Ph.D. candidate from the Faculty of Engineering and IT at the University 
 ## Honours and Awards
 - 2023.06, Melbourne Research Scholarship of Unimelb. 
 - 2021.02, Vacation Research Scholarship of Unimelb.
+- 2020.01, Melbourne Global Mobility Award of Unimelb
 
 ## Teaching Experience
 - 2025.03: Marker for COMP20008: Elment of Data Processing
