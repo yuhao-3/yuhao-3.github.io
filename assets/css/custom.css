@@ -1,20 +1,20 @@
 /* ======= Layout: Two-column (Left avatar + Right content) ======= */
 .wrapper {
   display: flex;
-  justify-content: flex-start;
   align-items: flex-start;
-  max-width: 1320px; /* 放大约20% */
+  justify-content: flex-start;
+  max-width: 1300px;
   margin: 0 auto;
-  padding: 48px 24px;
+  padding: 40px 20px;
 }
 
 header {
   flex: 0 0 280px;
-  padding: 24px 16px;
   display: flex;
   flex-direction: column;
-  align-items: center; /* 头像和文字居中 */
+  align-items: center; /* 只让头像和文字在 header 里居中 */
   text-align: center;
+  padding: 0 10px;
 }
 
 header .avatar img {
@@ -100,9 +100,6 @@ section {
   flex: 1;
   padding-left: 60px;
   max-width: 1000px;  /* 原850px，提升宽度 */
-  font-size: 0.96rem;
-  color: #222;
-  line-height: 1.75;
 }
 
 /* Section titles */
