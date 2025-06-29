@@ -1,113 +1,91 @@
 /* ======= Layout: Two-column (Left avatar + Right content) ======= */
 .wrapper {
   display: flex;
-  align-items: flex-start;
   justify-content: flex-start;
-  max-width: 1300px;
+  align-items: flex-start;
+  max-width: 1320px; /* 放大约20% */
   margin: 0 auto;
-  padding: 40px 20px;
+  padding: 48px 24px;
 }
 
+/* Header wrapper */
 header {
-  flex: 0 0 220px;  /* 宽度更窄，腾出空间给正文 */
+  flex: 0 0 300px; /* 原250 → 300px */
+  margin-right: 48px;
+  text-align: left;
+  position: relative;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;  /* ✅ 头像 + 名字靠左对齐 */
-  text-align: left;
-  padding: 0 10px;
+  align-items: flex-start;
 }
 
-.avatar {
-  position: absolute !important;
-  top: 100px;         /* ⬅️ 距离页面顶部的位置，你可以调 */
-  left: 100px;        /* ⬅️ 头像左对齐位置 */
-  width: 168px;
-  height: 168px;
-  z-index: 10;
-}
-
-.avatar img {
-  width: 100%;
-  height: 100%;
+/* Avatar 样式 */
+header .avatar img {
+  width: 168px; /* 原140px → 168px */
   border-radius: 50%;
-  object-fit: cover;
+  margin-bottom: 24px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  display: block;
+  margin-left: 0;
 }
 
+/* Name/title/email 样式 */
 header h1 {
-  font-size: 2rem;
+  font-size: 2.76rem !important; /* 原2.3rem → 2.76rem */
   font-weight: 700;
-  margin: 0 0 10px 0;
+  margin-bottom: 12px;
+  text-align: left;
 }
 
 header position {
   display: block;
-  font-size: 1.1rem;
+  font-size: 1.44rem !important; /* 原1.2rem */
   font-weight: 500;
-  color: #555;
-  margin-bottom: 8px;
+  color: #444 !important;
+  margin-bottom: 12px;
 }
 
 header autocolor {
   display: block;
-  color: #007acc;
+  color: #007acc !important;
   font-weight: 500;
   margin-bottom: 6px;
 }
 
 header email {
   display: block;
-  font-size: 0.95rem;
+  font-size: 1.14rem; /* 原0.95rem */
   color: #444;
-  margin-bottom: 12px;
+  margin-bottom: 18px;
 }
 
-header summary {
-  display: block;
-  font-size: 0.95rem;
-  color: #444;
-  line-height: 1.4;
-  white-space: pre-wrap;
-  margin-bottom: 14px;
-}
-
-/* ======= 社交图标区域 ======= */
-.contact-icons {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 10px;
-  font-size: 0.95rem;
+.social-icons {
+  text-align: left;
   margin-top: 12px;
 }
-
-.contact-icons a {
-  color: #333;
-  text-decoration: none;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  transition: color 0.2s ease;
+.social-icons i {
+  font-size: 1.56rem !important; /* 原1.3rem */
+  color: #007acc !important;
+  transition: transform 0.2s;
 }
-
-.contact-icons a:hover {
-  color: #007acc;
-}
-
-.contact-icons i {
-  width: 20px;
-  text-align: center;
+.social-icons i:hover {
+  transform: scale(1.2);
+  color: #005fa3 !important;
 }
 
 /* ======= Right content section ======= */
 section {
   flex: 1;
   padding-left: 60px;
-  max-width: 1000px;
+  max-width: 1000px;  /* 原850px，提升宽度 */
+  font-size: 0.96rem;
+  color: #222;
+  line-height: 1.75;
 }
 
+/* Section titles */
 section h2 {
-  font-size: 1.68rem !important;
+  font-size: 1.68rem !important; /* 原1.4rem */
   font-weight: 700;
   margin-top: 2.4rem;
   border-bottom: 1px solid #ddd;
@@ -115,27 +93,31 @@ section h2 {
   color: #111;
 }
 
+/* Publication card image */
 .teaser {
-  max-width: 120px;
+  max-width: 120px; /* 原100px */
   border-radius: 6px;
   border: 1px solid #ccc;
 }
 
+/* Publication title */
 .title a {
   color: #007acc !important;
   font-weight: 600;
-  font-size: 1.2rem;
+  font-size: 1.2rem; /* 原1rem */
 }
 .title a:hover {
   text-decoration: underline;
 }
 
+/* Body */
 body {
   background-color: #fefefe !important;
   font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Microsoft YaHei", sans-serif !important;
 }
 
+/* Footer */
 footer small {
   color: #888;
-  font-size: 0.96rem;
+  font-size: 0.96rem; /* 原0.8rem */
 }
