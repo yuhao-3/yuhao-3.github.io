@@ -15,7 +15,7 @@ I am a Ph.D. candidate from the Faculty of Engineering and IT at the University 
 ## Research Interests
 
 - **Robust Machine Learning:** Noisy Label Learning, Noisy Multi-Label Learning.
-- **Multimodal Learning:** Multimodal Alginment, Multimodal Fusion.
+- **Multimodal Learning:** Multimodal Alignment, Multimodal Fusion.
 - **Multimodal HealthCare Learning:** With a focus on Electronic Health Records from Time Series and Clinical Notes.
 
 
