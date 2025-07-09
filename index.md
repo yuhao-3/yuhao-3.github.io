@@ -15,6 +15,7 @@ I am a Ph.D. candidate from the Faculty of Engineering and IT at the University 
 ## Research Interests
 
 - **Robust Machine Learning:** Noisy Label Learning, Noisy Multi-Label Learning.
+- **Multimodal Learning:** Multimodal Alginment, Multimodal Fusion.
 - **Multimodal HealthCare Learning:** With a focus on Electronic Health Records from Time Series and Clinical Notes.
 
 
@@ -28,8 +29,8 @@ I am a Ph.D. candidate from the Faculty of Engineering and IT at the University 
 - 2020.01, Melbourne Global Mobility Award of Unimelb
 
 ## Teaching Experience
-- 2025.03: Marker for COMP20008: Elment of Data Processing
-- 2025.07: Tutor for School of Mathematic and Statistic
+- 2025S1,S2: Marker for COMP20008: Elment of Data Processing
+- 2025S2: Tutor for MAST20005: Statistics
 
 
 
