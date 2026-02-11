@@ -6,3 +6,8 @@
   <li><a href="http://cvpr2023.thecvf.com/"><autocolor>ECML-PKDD Conference 2025</autocolor></a></li>
 </ul> 
 
+
+<ul style="margin:0 0 5px;">
+  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>AAAI Conference 2026</autocolor></a></li>
+</ul> 
+
