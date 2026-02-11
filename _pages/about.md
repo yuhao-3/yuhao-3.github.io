@@ -25,7 +25,6 @@ I am passionate about advancing **robust and reliable machine learning**, with a
 (2) **multimodal learning**, with an emphasis on multimodal alignment and fusion across heterogeneous representations;
 (3) **multimodal healthcare learning**, particularly modeling electronic health records that integrate structured time-series signals and unstructured clinical notes.
 
-In an era where AI systems are increasingly deployed in high-stakes healthcare decision-making domains, I firmly believe that their foundations must be trustworthy and robust: not as an afterthought, but as a prerequisite for responsible and sustainable clinical integration.
 
 *Please feel free to email me for research discussions, collaborations, or a casual chat.*
 
