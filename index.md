@@ -24,7 +24,7 @@ I am a 3rd year Ph.D. candidate from the Faculty of Engineering and IT at the Un
 
 
 ## Honours and Awards
-- 2025.01,Engineering and IT Conference Travel Scholarship
+- 2025.04, Engineering and IT Conference Travel Scholarship
 - 2023.06, Melbourne Research Scholarship of Unimelb. 
 - 2021.02, Vacation Research Scholarship of Unimelb.
 - 2020.01, Melbourne Global Mobility Award of Unimelb
