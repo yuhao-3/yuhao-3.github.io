@@ -4,11 +4,13 @@ layout: homepage
 
 ## 📖 About Me
 
-I am a 3rd year Ph.D. candidate from the Faculty of Engineering and IT at the University of Melbourne, advised by Dr. Ling Luo and Prof. Uwe Aickelin. I am passionate about advancing the field of trustworthy machine learning, particularly in the domains of robust learning and multimodal healthcare applications.
+Hi there, I am Yuhao Li. I am a Ph.D. candidate at the [Trustworthy Machine Learning and Reasoning (TMLR)](https://github.com/tmlr-group) group in the Faculty of Engineering and Information Technology, the University of Melbourne, under the supervision of [Dr. Ling Luo](https://cis.unimelb.edu.au/people/academic-staff/ling-luo) and [Prof. Uwe Aickelin](https://cis.unimelb.edu.au/people/uwe-aickelin).
 
-My research focuses on developing machine learning methods that can handle noisy and imperfect data, with special emphasis on Electronic Health Records combining time series and clinical notes. I am committed to building reliable AI systems for real-world healthcare applications.
+I am passionate about advancing the field of **trustworthy machine learning**, particularly in the domains of robust learning and multimodal healthcare applications. My current research focuses on developing machine learning methods that can effectively handle **noisy and imperfect data**, with special emphasis on Electronic Health Records combining time series and clinical notes.
 
-Feel free to reach out for research discussions, collaborations, or a casual chat!
+In an era where AI systems are increasingly deployed in high-stakes healthcare decision-making domains, I firmly believe that their foundations must be trustworthy and robust: not as an afterthought, but as a prerequisite for responsible and sustainable clinical integration.
+
+*Please feel free to email me for research discussions, collaborations, or a casual chat.*
 
 ## 📝 Research Interests
 
@@ -18,11 +20,9 @@ Feel free to reach out for research discussions, collaborations, or a casual cha
 
 
 ## 🎓 Education
-- **2023.08 - Present**, Ph.D. in Engineering and IT, University of Melbourne (Unimelb)
-  *Advised by Dr. Ling Luo and Prof. Uwe Aickelin*
-- **2022.07 - 2023.07**, B.Sc. in Data Science (Honours), University of Sydney (USYD)
-  *Advised by A/Prof. John Ormond and Dr. Mohammad Javad Davoudabadi*
-- **2019.03 - 2022.03**, B.Sc. in Data Science, University of Melbourne (Unimelb)
+- **2023.08 - Present**, the University of Melbourne (Unimelb), Ph.D. in Engineering and IT, advised by [Dr. Ling Luo](https://cis.unimelb.edu.au/people/academic-staff/ling-luo) and [Prof. Uwe Aickelin](https://cis.unimelb.edu.au/people/uwe-aickelin).
+- **2022.07 - 2023.07**, the University of Sydney (USYD), B.Sc. in Data Science (Honours), advised by A/Prof. John Ormond and Dr. Mohammad Javad Davoudabadi.
+- **2019.03 - 2022.03**, the University of Melbourne (Unimelb), B.Sc. in Data Science.
 
 
 {% include_relative _includes/publications.md %}
