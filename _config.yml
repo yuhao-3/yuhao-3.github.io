@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuhao Li"
+title                    : "Yuhao Li (Mcgrady)"
 description              : "Focusing on Trustworthy Machine Learning in Healthcare"
 repository               : "yuhao-3/yuhao-3.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuhao Li"
-  avatar           : "/images/IMG_unimelb_large.png"
+  name             : "Yuhao Li (Mcgrady)"
+  avatar           : "/images/IMG_2.png"
   bio              : "PhD candidate at Unimelb"
   location         : "Melbourne, Australia"
   employer         :

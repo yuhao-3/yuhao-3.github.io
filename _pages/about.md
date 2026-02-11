@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Yuhao Li. I am a Ph.D. candidate in the Faculty of Engineering and Information Technology, the University of Melbourne, under the supervision of [Dr. Ling Luo](https://cis.unimelb.edu.au/people/academic-staff/ling-luo) and [Prof. Uwe Aickelin](https://cis.unimelb.edu.au/people/uwe-aickelin).
+Hi there, I am Yuhao Li (Mcgrady). I am a Ph.D. candidate in the Faculty of Engineering and Information Technology, the University of Melbourne, under the supervision of [Dr. Ling Luo](https://cis.unimelb.edu.au/people/academic-staff/ling-luo) and [Prof. Uwe Aickelin](https://cis.unimelb.edu.au/people/uwe-aickelin).
 
 
 I am passionate about advancing **robust and reliable machine learning**, with a long-term vision of developing models that can learn faithfully from imperfect, heterogeneous, and real-world data. My current research focuses on improving the robustness and trustworthiness of learning systems under practical data challenges, including but not limited to:
