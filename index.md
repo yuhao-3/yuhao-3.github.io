@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 2nd year Ph.D. candidate from the Faculty of Engineering and IT at the University of Melbourne.
+I am a 3rd year Ph.D. candidate from the Faculty of Engineering and IT at the University of Melbourne.
 
 ## Educations
 - 2023.08 - present, the University of Melbourne (Unimelb), Ph.D. in Engineering and IT, advised by Dr. Ling Luo and Prof. Uwe Aickelin.
@@ -24,14 +24,15 @@ I am a 2nd year Ph.D. candidate from the Faculty of Engineering and IT at the Un
 
 
 ## Honours and Awards
+- 2025.01,Engineering and IT Conference Travel Scholarship
 - 2023.06, Melbourne Research Scholarship of Unimelb. 
 - 2021.02, Vacation Research Scholarship of Unimelb.
 - 2020.01, Melbourne Global Mobility Award of Unimelb
 
 ## Teaching Experience
-- 2025S1,S2: Marker for COMP20008: Elment of Data Processing
-- 2025S2: Tutor for MAST20005: Statistics
-
+- 2026S1: Casual Tutor for MAST30025: Linear Statistical Models
+- 2025S2: Casual Tutor for MAST20005: Statistics
+- 2025S1,S2: Casual Marker for COMP20008: Elment of Data Processing
 
 
 {% include_relative _includes/publications.md %}
