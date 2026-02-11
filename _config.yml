@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuhao Li"
-  avatar           : "images/IMG_2.png"
+  avatar           : "/images/IMG_unimelb_large.png"
   bio              : "PhD candidate at Unimelb"
   location         : "Melbourne, Australia"
   employer         :
