@@ -21,6 +21,11 @@ Hi there, I am Yuhao Li. I am a Ph.D. candidate in the Faculty of Engineering an
 
 I am passionate about advancing the field of **trustworthy machine learning**, particularly in the domains of robust learning and multimodal healthcare applications. My current research focuses on developing machine learning methods that can effectively handle **noisy and imperfect data**, with special emphasis on Electronic Health Records combining time series and clinical notes.
 
+I am passionate about advancing robust and reliable machine learning, with a long-term vision of developing models that can learn faithfully from imperfect, heterogeneous, and real-world data. My current research focuses on improving the robustness and trustworthiness of learning systems under practical data challenges, including but not limited to:
+(1) noisy label learning and noisy multi-label learning, where supervision is incomplete, corrupted, or inconsistent;
+(2) multimodal learning, with an emphasis on multimodal alignment and fusion across heterogeneous representations;
+(3) multimodal healthcare learning, particularly modeling electronic health records that integrate structured time-series signals and unstructured clinical notes.
+
 In an era where AI systems are increasingly deployed in high-stakes healthcare decision-making domains, I firmly believe that their foundations must be trustworthy and robust: not as an afterthought, but as a prerequisite for responsible and sustainable clinical integration.
 
 *Please feel free to email me for research discussions, collaborations, or a casual chat.*
