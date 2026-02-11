@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Yuhao Li. I am a Ph.D. candidate at the [Trustworthy Machine Learning and Reasoning (TMLR)](https://github.com/tmlr-group) group in the Faculty of Engineering and Information Technology, the University of Melbourne, under the supervision of [Dr. Ling Luo](https://cis.unimelb.edu.au/people/academic-staff/ling-luo) and [Prof. Uwe Aickelin](https://cis.unimelb.edu.au/people/uwe-aickelin).
+Hi there, I am Yuhao Li. I am a Ph.D. candidate in the Faculty of Engineering and Information Technology, the University of Melbourne, under the supervision of [Dr. Ling Luo](https://cis.unimelb.edu.au/people/academic-staff/ling-luo) and [Prof. Uwe Aickelin](https://cis.unimelb.edu.au/people/uwe-aickelin).
 
 I am passionate about advancing the field of **trustworthy machine learning**, particularly in the domains of robust learning and multimodal healthcare applications. My current research focuses on developing machine learning methods that can effectively handle **noisy and imperfect data**, with special emphasis on Electronic Health Records combining time series and clinical notes.
 
