@@ -52,6 +52,7 @@ In *The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAK
 - *2023.06*, Melbourne Research Scholarship, University of Melbourne.
 - *2021.02*, Vacation Research Scholarship, University of Melbourne.
 - *2020.01*, Melbourne Global Mobility Award, University of Melbourne.
+- *2020.01*, Exchange nomintation to National University of Singapore, University of Melbourne.
 
 # 💻 Internships
 - *2023.02 - 2023.06*, Machine Learning Engineer Intern, China Sinosoft Technology.
