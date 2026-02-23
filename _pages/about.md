@@ -50,7 +50,7 @@ In *The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAK
 # 🎖 Honours and Awards
 - *2025.04*, Engineering and IT Conference Travel Scholarship.
 - *2023.06*, Melbourne Research Scholarship, University of Melbourne.
-- *2021.02*,  Mathematics and Statistics Vacation Research Scholarship, University of Melbourne.
+- *2021.02*, Mathematics and Statistics Vacation Research Scholarship, University of Melbourne.
 - *2020.01*, Melbourne Global Mobility Award, University of Melbourne.
 - *2020.01*, Exchange nomintation to National University of Singapore, University of Melbourne.
 
