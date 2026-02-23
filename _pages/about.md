@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Yuhao Li - Ph.D. Candidate in Machine Learning"
+excerpt: "Ph.D. candidate at the University of Melbourne researching robust and reliable machine learning, noisy label learning, and multimodal healthcare learning."
 author_profile: true
 redirect_from:
   - /about/
